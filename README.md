@@ -13,3 +13,5 @@ This allows for an easy setup of the snowflake connection.
 
 #### Other:
 Using airflow v2.0
+
+See the walkthrough of the project here: https://www.prestonblackburn.com/projects/CensusDataEngPipeline 
