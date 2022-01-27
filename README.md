@@ -1,5 +1,5 @@
 # first-airflow-data-pipeline
-An airflow EtLT pipeline for US census data
+An intro to airflow and EtLT pipeline for US census data
 
 ### Folders: 
 Dags - Dags that were used in airflow  
